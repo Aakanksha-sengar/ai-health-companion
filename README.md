@@ -4,7 +4,7 @@ An agentic AI prototype that helps elderly and chronic patients take their medic
 
 **SDG 3: Good Health and Well-being**
 
-**Live demo:** https://YOUR-USERNAME.github.io/ai-health-companion/
+**Live demo:** https://ai-health-companion-ouvy4wtnb-aakankshasengar8-6278s-projects.vercel.app/
 
 ## Problem
 
