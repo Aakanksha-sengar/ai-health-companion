@@ -4,7 +4,7 @@ An agentic AI prototype that helps elderly and chronic patients take their medic
 
 **SDG 3: Good Health and Well-being**
 
-**Live demo:** https://YOUR-VERCEL-LINK.vercel.app
+**Live demo:** https://ai-health-companion-eight.vercel.app/
 **ML notebook:** `missed_dose_model.ipynb` (open in Google Colab and click Runtime > Run all)
 
 ## Problem
